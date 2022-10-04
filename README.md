@@ -1,6 +1,6 @@
 step step:
 
-run in cmd
+run in command line
 
 install pyton
 
