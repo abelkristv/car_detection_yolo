@@ -1,5 +1,7 @@
 step step:
 
+run in cmd
+
 install pyton
 
 
@@ -9,3 +11,4 @@ pip install opencv-python
 run with :
 
 python car_detection.py
+
